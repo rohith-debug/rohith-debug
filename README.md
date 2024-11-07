@@ -32,7 +32,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-debug&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohith-debug&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats/api?username=rohith-debug&theme=dark&combine_all_yearly_contributions=true)
 
 # LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rohith-debug?ext=contest&theme=dark)](https://leetcode.com/u/Codesbyrohith/)
